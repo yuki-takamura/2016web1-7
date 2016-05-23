@@ -18,6 +18,13 @@ header{
   width:100%;
 }
 
+#picture{
+  width:24px;
+  position : absolute;
+  left:50px;
+  top:50px;
+}
+
 .box{
   background-color:orange;
   color:black;
