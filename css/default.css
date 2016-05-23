@@ -10,21 +10,24 @@ body{
 }
 
 header{
-  background-color : orange;
+  background-color : red;
 }
 
 #main1{
-  background-color: green;
+  background-color: orange;
+  width : 500px;
 }
 
 #main2{
   background-color:yellow;
+  width : 400px;
 }
 
 aside{
-  background-color:blue;
+  background-color:green;
+  width : 300px;
 }
 
 footer{
-  background-color:purple;
+  background-color:blue;
 }
