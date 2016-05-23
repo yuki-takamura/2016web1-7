@@ -21,13 +21,13 @@ header{
 
 #main2{
   background-color:yellow;
-  width : 400px;
+  width : 500px;
   float : left;
 }
 
 aside{
   background-color:green;
-  width : 300px;
+  width : 200px;
   float : right;
 }
 
